@@ -1,4 +1,4 @@
-package com.ing.controller.test;
+package com.lastm.controller.test;
 
 import static org.junit.Assert.assertTrue;
 
@@ -15,7 +15,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.codec.Base64;
 
-import com.ing.ApplicationTests;
+import com.lastm.ApplicationTests;
 
 /**
  * Controller Test class

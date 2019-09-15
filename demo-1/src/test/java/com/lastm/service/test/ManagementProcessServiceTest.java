@@ -1,4 +1,4 @@
-package com.ing.service.test;
+package com.lastm.service.test;
 
 import static org.junit.Assert.assertTrue;
 
@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.ing.ApplicationTests;
+import com.lastm.ApplicationTests;
 import com.lastm.bean.RequestFareAndTax;
 import com.lastm.bean.ResponseFareAndTax;
 import com.lastm.service.ManagementProcessService;

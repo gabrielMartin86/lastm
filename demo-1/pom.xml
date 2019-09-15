@@ -4,8 +4,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.ing</groupId>
-	<artifactId>ing</artifactId>
+	<groupId>com.lastm</groupId>
+	<artifactId>lastm</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -75,18 +75,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<!--Externals Apis  -->
-		<dependency>
-			<groupId>com.google.apis</groupId>
-			<artifactId>google-api-services-books</artifactId>
-			<version>v1-rev104-1.25.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>be.ceau</groupId>
-			<artifactId>itunes-search</artifactId>
-			<version>1.0</version>
 		</dependency>
 
 		<!-- Prometurs for expose metrics -->
